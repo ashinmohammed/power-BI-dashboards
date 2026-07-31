@@ -1,4 +1,4 @@
-# 📊 Data Job Dashboard | Power BI
+# 📊 Data Job Dashboard | Power BI uu
 
 An interactive Power BI dashboard built to explore the data job market. This project was created as my **first Power BI dashboard** to practice designing reports, working with different visualizations, and creating interactive dashboards.
 
