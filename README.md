@@ -12,8 +12,9 @@ Each project includes its own dataset (where applicable), Power BI report, scree
 
 | Project | Preview |
 |---------|---------|
-| **Data Job Dashboard 1** | ![](/images/project%201%20main%20page.png) |
-| **Data Jobs Dashboard 2** | ![](/images/project%202%20main%20page.png) |
+| **Data Job (Dashboard 1)** | ![](/images/project%201%20main%20page.png) |
+| **Data Jobs (Dashboard 2)** | ![](/images/project%202%20main%20page.png) |
+| **Grocery Inventory (Dashboard 3)** | ![](/images/grocery%201%20main%20page.png) |
 
 > *Click on any project folder to explore the dashboard, screenshots, and detailed documentation.*
 
@@ -43,6 +44,19 @@ Each project includes its own dataset (where applicable), Power BI report, scree
 - Dynamic Dashboard
 
 [**view full project 2 details**](/data%20job%20dashboard%202/README.md)
+
+---
+### 📌 Project 3 – Grocery Inventory Dashboard
+
+- Power Query
+- DAX Measures
+- Multi-page Navigation
+- Field Parameters
+- Inventory Analysis
+- Sales Performance Dashboard
+- Supplier Analysis Dashboard
+
+[**View Full Project 3 Details →**](/grocery%20inventory%20dashboard/README.md)
 
 ---
 
